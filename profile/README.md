@@ -1,4 +1,4 @@
-## Welcome to [LuxProvide](lxp-website) GitHub !
+## Welcome to [LuxProvide][lxp-website] GitHub !
 
 ---
 
